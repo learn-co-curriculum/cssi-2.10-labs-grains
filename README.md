@@ -78,7 +78,7 @@ total(5)
 Notice the relationship between the function `square` and the function `total`.
 
 ## Checking Results
-There are jasmine tests available for learn or you can manually open the `index.html` file and check the results.
+You can manually open the `index.html` file and check the results.
 
 ## Hints
 
