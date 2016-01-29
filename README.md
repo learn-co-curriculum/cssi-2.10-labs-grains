@@ -87,4 +87,4 @@ You can manually open the `index.html` file and check the results.
 * [Wheat and chessboard problem](http://en.wikipedia.org/wiki/Wheat_and_chessboard_problem)
 * [Math.pow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
 
-<a href='https://learn.co/lessons/cssi-2.10-labs-grains' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2.10-labs-grains' title='Grains'>Grains</a> on Learn.co and start learning to code for free.</p>
